@@ -1,4 +1,4 @@
-algoritmo "Exercicio-94(DESAFIO) Fibonacci com Proced e PARAMETROS"
+algoritmo "exercicio-94(DESAFIO) Fibonacci com Proced e PARAMETROS"
 var
 n:inteiro
 
